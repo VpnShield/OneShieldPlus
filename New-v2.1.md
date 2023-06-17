@@ -1,10 +1,10 @@
 {
-"Title": "⭕️ تصویب مجلس برای قطعی اینترنت !",
-"Description": "- از امشب اختلال شدید داریم ، اگه میخوای تلگرام و اینستات قطع نشه سریع بیا کانال 👇🏻",
-"Link": "tg://join?invite=H0BsgF7NSH5jYzIy",
-"ColorWave": "#AA00FF",
-"Color": "#AA00FF",
-"ColorWaveTwo": "#E040FB",
+"Title": "☆  بروزرسانی جدید  ☆",
+"Description": "سلام دوست عزیزم 🌺\n\n- این نسخه از کار افتاده ، نسخه جدید پرسرعت ، مود و منتشر شده رو از کانال تلگرام ما دریافت کنید 🤍",
+"Link": "tg://resolve?domain=Vpn_Shield",
+"ColorWave": "#FFFF00",
+"Color": "#FFFF00",
+"ColorWaveTwo": "#FFD600",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "183749",
-"ShowTime": "2",
-"Button": " عضویت سریع ",
-"ButtonCancell": " فیلترشکن میخرم ",
-"Closure": "true",
+"MessageID": "1",
+"ShowTime": "999",
+"Button": "  دریافت نسخه جدید  ",
+"ButtonCancell": " بعدا ",
+"Closure": "false",
 "Show": "on"
 }
